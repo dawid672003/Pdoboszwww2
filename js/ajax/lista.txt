@@ -1,0 +1,31 @@
+<div class="flex">
+        <div class="produkt">
+            <img src="img/por2.png" alt="">
+            <h1>Por</h1>
+            <p class="cena">6,23zl</p>
+            <p>Cena za kilogram</p>
+            <p><button>Dodaj do koszyka</button></p>
+            </div>
+        <div class="produkt">
+            <img src="img/jablko2.png" alt="">
+            <h1>Jabłko</h1>
+            <p class="cena">1,50zl</p>
+            <p>Cena za kilogram</p>
+            <p><button>Dodaj do koszyka</button></p>
+            </div>
+        <div class="produkt">
+            <img src="img/por2.png" alt="">
+            <h1>Por</h1>
+            <p class="cena">6,23zl</p>
+            <p>Cena za kilogram</p>
+            <p><button>Dodaj do koszyka</button></p>
+            </div>
+        <div class="produkt">
+            <img src="img/jablko2.png" alt="">
+            <h1>Japko</h1>
+            <p class="cena">1,50zl</p>
+            <p>Cena za kilogram</p>
+            <p><button>Dodaj do koszyka</button></p>
+            </div>
+
+    </div>
